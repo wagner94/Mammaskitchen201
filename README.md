@@ -1,1 +1,1 @@
-![readme](https://user-images.githubusercontent.com/24450304/60599061-b26a8200-9da5-11e9-881e-7a8cb1d6dbf1.png)
+![Dashboard](https://user-images.githubusercontent.com/24450304/61044395-79976200-a3d0-11e9-8404-37de428dc5eb.png)
